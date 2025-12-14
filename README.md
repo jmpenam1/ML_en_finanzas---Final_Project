@@ -1,5 +1,10 @@
 # ML_en_finanzas - Final_Project
 
+Proyecto realizado por: 
+Paula Pirela
+Jaber Andrés Olarte
+Juan Manuel Peña 
+
 # Credit Risk Analysis (PCA + Clustering + Default Prediction)
 
 Este repositorio contiene un notebook (Google Colab / Jupyter) para **analizar riesgo de crédito** usando datos históricos, aplicando:
