@@ -1,9 +1,9 @@
 # ML_en_finanzas - Final_Project
 
 Proyecto realizado por: 
-Paula Pirela
-Jaber Andrés Olarte
-Juan Manuel Peña 
+* Paula Pirela
+* Jaber Andrés Olarte
+* Juan Manuel Peña 
 
 # Credit Risk Analysis (PCA + Clustering + Default Prediction)
 
